@@ -1,0 +1,53 @@
+[
+	{
+		"id": 1,
+		"message": "I was charged twice for my monthly subscription.",
+		"expected_category": "billing"
+	},
+	{
+		"id": 2,
+		"message": "I cannot log in because the password reset email never arrives.",
+		"expected_category": "access"
+	},
+	{
+		"id": 3,
+		"message": "The export button crashes the app whenever I click it.",
+		"expected_category": "bug"
+	},
+	{
+		"id": 4,
+		"message": "Could you add an option to export reports as Excel files?",
+		"expected_category": "feature_request"
+	},
+	{
+		"id": 5,
+		"message": "What payment methods do you accept for the annual plan?",
+		"expected_category": "billing"
+	},
+	{
+		"id": 6,
+		"message": "Please remove my old phone number so I can verify my account.",
+		"expected_category": "access"
+	},
+	{
+		"id": 7,
+		"message": "The dashboard has been showing yesterday's data since this morning.",
+		"expected_category": "bug"
+	},
+	{
+		"id": 8,
+		"message": "It would be helpful to have dark mode in the mobile app.",
+		"expected_category": "feature_request"
+	},
+	{
+		"id": 9,
+		"message": "I need help understanding what this service does.",
+		"expected_category": "other"
+	},
+	{
+		"id": 10,
+		"message": "My invoice total looks different from the price I saw at checkout.",
+		"expected_category": "billing"
+	}
+]
+
